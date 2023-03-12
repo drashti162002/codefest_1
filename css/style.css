@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+}
+img {
+    width: 100%;
+}
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0px;
+    padding: 0px;
+}
+a {
+    text-decoration: none;
+}
+ul, ol {
+    margin: 0px;
+    padding: 0px;
+}
+input, button {
+    box-shadow: none !important;
+    outline: none !important;
+}
+
+/* common css end */
+
+
+.logo{
+    width: 100px;
+    height: 100px;
+}
